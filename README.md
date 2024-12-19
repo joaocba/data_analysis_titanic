@@ -4,6 +4,9 @@
 
 This project consists of an interactive web application developed using Streamlit to analyze the Titanic passenger data. The main goal is to identify survival patterns and develop predictive models, enabling a better understanding of which passenger characteristics influenced their chances of survival during the disaster.
 
+## 🌐 Live Preview of the Application
+[Streamlit App](https://joaocba-titanic-analysis.streamlit.app/)
+
 ### 🎯 Main Features
 
 - Interactive exploratory data analysis
