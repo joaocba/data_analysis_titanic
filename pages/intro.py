@@ -70,7 +70,7 @@ def show():
         """
         ### 🔗 Referências e Ligações Úteis
         - [Kaggle da Análise do Titanic](https://www.kaggle.com/code/joaobacalhau/notebooka528748a6b)  
-        - [GitHub do Projeto](https://github.com/eduardogomes-ml)
+        - [GitHub do Projeto](https://github.com/joaocba/data_analysis_titanic)
         - [Documentação das Bibliotecas Utilizadas](https://scikit-learn.org/)
 
         ### 👨‍💻 Desenvolvido por:
@@ -79,7 +79,6 @@ def show():
         ### 🎓 Sobre o Curso:
         - **Coordenadora/Formadora:** Dra. Ana Grade 
         - **Curso:** Projeto Final do Curso de Analista de Dados do Citeforma
-        - **Período:** 2023/2024
         """
     )
     st.divider()
