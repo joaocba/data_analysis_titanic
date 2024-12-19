@@ -1,11 +1,8 @@
-#[theme]
-#base="light"
+[theme]
+base="light"
 
-#[client]
-#showSidebarNavigation = false
+[client]
+showSidebarNavigation = false
 
-#[browser]
-#gatherUsageStats = false
-
-
-# docs: https://docs.streamlit.io/develop/api-reference/configuration/config.toml
+[browser]
+gatherUsageStats = false
